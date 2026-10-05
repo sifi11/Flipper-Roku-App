@@ -1,6 +1,6 @@
 App(
-    appid="roku_remote",
-    name="Roku Remote",
+    appid="roku_app",
+    name="Roku App",
     apptype=FlipperAppType.EXTERNAL,
     entry_point="roku_remote_app",
     stack_size=4 * 1024,
@@ -8,5 +8,5 @@ App(
     fap_category="Infrared",
     fap_icon="fap_icon.png",
     fap_version="1.0",
-    fap_description="Vertical infrared Roku remote using the codes from Roku.ir",
+    fap_description="",
 )
