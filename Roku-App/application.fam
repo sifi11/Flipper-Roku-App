@@ -4,7 +4,7 @@ App(
     apptype=FlipperAppType.EXTERNAL,
     entry_point="roku_remote_app",
     stack_size=4 * 1024,
-    requires=["gui"],
+    requires=["gui", notification", "infrared"],
     fap_category="Infrared",
     fap_icon="fap_icon.png",
     fap_version="1.0",
