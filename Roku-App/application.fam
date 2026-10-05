@@ -8,5 +8,6 @@ App(
     fap_category="Infrared",
     fap_icon="fap_icon.png",
     fap_version="1.0",
-    fap_description="",
+    fap_author="Sifi11",
+    fap_description="Control your Roku TV from one interface",
 )
